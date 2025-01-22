@@ -1,0 +1,94 @@
+[
+  {
+    "id": 456,
+    "name": "sonu",
+    "age": 22,
+    "address": "gpj",
+    "contactnumber": "556644",
+    "qualification": [
+      "10"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "guddu",
+    "age": 45,
+    "address": "delhi",
+    "contactnumber": "7255",
+    "qualification": [
+      "10"
+    ]
+  },
+  {
+    "id": 546,
+    "name": "hima",
+    "age": 25,
+    "address": "bihar",
+    "contactnumber": "225588",
+    "qualification": [
+      "12"
+    ]
+  },
+  {
+    "id": 123654,
+    "name": "divya",
+    "age": 15,
+    "address": "delhi",
+    "contactnumber": "556699",
+    "qualification": [
+      "12"
+    ]
+  },
+  {
+    "id": 474849,
+    "name": "DHANNU",
+    "age": 22,
+    "address": "GOPALGANJ",
+    "contactnumber": "7896560258",
+    "qualification": [
+      "12TH",
+      "10"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "MONU",
+    "age": 19,
+    "address": "DELHI",
+    "contactnumber": "2255889966",
+    "qualification": [
+      "12TH"
+    ]
+  },
+  {
+    "id": 8855,
+    "name": "RAJ",
+    "age": 14,
+    "address": "SIWAN",
+    "contactnumber": "22445566",
+    "qualification": [
+      "10"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "VIR",
+    "age": 20,
+    "address": "BIHAR",
+    "contactnumber": "725544",
+    "qualification": [
+      "10TH",
+      "B.TECH"
+    ]
+  },
+  {
+    "id": 3344,
+    "name": "aman",
+    "age": 17,
+    "address": "goa",
+    "contactnumber": "558899",
+    "qualification": [
+      "10"
+    ]
+  }
+]
